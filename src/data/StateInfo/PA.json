@@ -1,0 +1,15 @@
+{
+    "_id": {
+      "$oid": "674e3c4bb1ec7aa5eedd6899"
+    },
+    "state": "PA",
+    "totalPopulation": 12384025,
+    "racialPopulation": {
+      "black": 1447285,
+      "hispanic": 848745,
+      "asian": 11345
+    },
+    "totalSeats": 18,
+    "republican": 9,
+    "democratic": 9
+  }

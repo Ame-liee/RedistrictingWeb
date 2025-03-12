@@ -1,0 +1,15 @@
+{
+    "_id": {
+      "$oid": "674e3c44b1ec7aa5eedd6897"
+    },
+    "state": "AL",
+    "totalPopulation": 4792060,
+    "racialPopulation": {
+      "black": 1327795,
+      "hispanic": 156000,
+      "asian": 11500
+    },
+    "totalSeats": 7,
+    "republican": 6,
+    "democratic": 1
+  }

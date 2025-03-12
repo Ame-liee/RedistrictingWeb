@@ -1,0 +1,15 @@
+{
+    "_id": {
+      "$oid": "674e3c47b1ec7aa5eedd6898"
+    },
+    "state": "MS",
+    "totalPopulation": 2941640,
+    "racialPopulation": {
+      "black": 1138625,
+      "hispanic": 72530,
+      "asian": 2710
+    },
+    "totalSeats": 4,
+    "republican": 3,
+    "democratic": 1
+  }
